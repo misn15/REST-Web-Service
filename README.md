@@ -1,10 +1,10 @@
-## REST Web Service using Spring Boot
+# REST Web Service using Spring Boot
 
-# Technologies Used
+## Technologies Used
 * Spring Boot
 * Gradle
 * Spring Tool Suite 4
 * Java
 
-# Description
+## Description
 REST is an architectural style used for building scalable web services.
